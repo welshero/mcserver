@@ -1,0 +1,31 @@
+[04:15:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[04:15:17] [ServerMain/INFO]: Loaded 1461 recipes
+[04:15:17] [ServerMain/INFO]: Loaded 1574 advancements
+[04:15:17] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[04:15:17] [Server thread/INFO]: Loading properties
+[04:15:17] [Server thread/INFO]: Default game type: SURVIVAL
+[04:15:17] [Server thread/INFO]: Generating keypair
+[04:15:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:15:17] [Server thread/INFO]: Using epoll channel type
+[04:15:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:15:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:15:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:15:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:15:17] [Server thread/INFO]: Preparing level "world"
+[04:15:18] [Server thread/INFO]: Loading 0 persistent chunks...
+[04:15:18] [Server thread/INFO]: Preparing spawn area: 100%
+[04:15:18] [Server thread/INFO]: Time elapsed: 14 ms
+[04:15:18] [Server thread/INFO]: Done (0.319s)! For help, type "help"
+[04:15:54] [Server thread/INFO]: Welsh[/127.109.153.208:50353] logged in with entity id 59 at (227.05988244783572, 73.0, 9.462194450626065)
+[04:15:54] [Server thread/INFO]: Welsh joined the game
+[04:16:41] [Server thread/INFO]: Welsh has made the advancement [Stone Age]
+[04:17:42] [Server thread/INFO]: Welsh has made the advancement [Getting an Upgrade]
+[04:24:57] [Server thread/INFO]: Welsh has made the advancement [Sweet Dreams]
+[04:25:45] [Server thread/INFO]: Villager cyx['Toolsmith'/2148, l='ServerLevel[world]', x=568.27, y=64.00, z=-235.34] died, message: 'Toolsmith hit the ground too hard'
+[04:25:58] [Server thread/INFO]: Welsh has made the advancement [Suit Up]
+[04:36:09] [Server thread/INFO]: Welsh has made the advancement [Monster Hunter]
+[04:41:19] [Server thread/INFO]: Villager cyx['Villager'/2143, l='ServerLevel[world]', x=541.28, y=60.56, z=-246.53] died, message: 'Villager suffocated in a wall'
+[04:45:01] [Server thread/INFO]: Villager cyx['Villager'/7211, l='ServerLevel[world]', x=321.37, y=73.00, z=-302.28] died, message: 'Villager suffocated in a wall'
+[04:45:10] [Server thread/INFO]: Welsh lost connection: Disconnected
+[04:45:10] [Server thread/INFO]: Welsh left the game
+[04:46:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
